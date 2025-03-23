@@ -1,9 +1,9 @@
 <header>
 
-# Hello GitHub Actions💋🥵
+# Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
-
+😠:_
 </header>
 
 ## Step 5: Trigger the workflow
